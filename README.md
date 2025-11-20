@@ -1,4 +1,4 @@
-# S-201_v2.0_AtoN-Information
+# S-201_AtoN-Information
 
 At ARM-21 WG2 Reported the following:
 
