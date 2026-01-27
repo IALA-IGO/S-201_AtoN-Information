@@ -14,4 +14,8 @@ S-201 Edition 2.1.0 will be harmonized with S-125 1.0.0. In the future S-201 edi
 Action item:
 The Secretariat is requested to setup a GitHub repository to track issues and changes for S-201.
 
+## Contributing
+External contributions are welcome.  
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
 ofe@iala.int 26. October 2025: Repository created.
