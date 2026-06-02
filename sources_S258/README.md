@@ -6,6 +6,6 @@ Action Item ARM22-27	Committee participants are invited to join the intersession
 Action Item ARM22-28	The Intersessional Group Leader is requested to provide input on the intersessional work on Task 7.1.4 S‑258/S‑201 Validation to ARM23.
 
 ## Members
-Peter Schwarzberg - Rijkwaterstaat (Netherlands) - Group Leader
-Robert David Lewald - U.S. Coast Guard (USA)
-Bridget Gagné - Canadian Coast Guard (Canada)
+Peter Schwarzberg - Rijkwaterstaat (Netherlands) - Group Leader  
+Robert David Lewald - U.S. Coast Guard (USA)  
+Bridget Gagné - Canadian Coast Guard (Canada)  
